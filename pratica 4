@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>legenda filme</title>
+</head>
+<body>
+
+        <video controls width="640">
+        <source src="360429.mp4" type="video/mp4">
+        <track src="legenda.vtt" kind="captions"
+        scrlang="pt-BR" label="Português" default>
+        
+        
+    </video>
+    <iframe width="1337" height="752" src="https://www.youtube.com/embed/k85mRPqvMbE?list=RDk85mRPqvMbE" title="Crazy Frog - Axel F (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
+
+
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Olá! Meu nome é Waldomiro e este é meu projeto.
+
+00:00:03.000 --> 00:00:06.000
+[Som das ondas do mar]
+
